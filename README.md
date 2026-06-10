@@ -1,1 +1,1 @@
-Schule
+Das Projekt befindet sich im Repository: 
